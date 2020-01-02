@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c93f67f-ae4c-467d-9197-857cd16fc889" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZ3HFLTMI6h0h7cZvHaXMJmBY1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\apache-tomcat-9.0.30\webapps\javawww\spring-web\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (2)">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dur.cosin.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c93f67f-ae4c-467d-9197-857cd16fc889" name="Default Changelist" comment="" />
+      <created>1577446699821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577446699821</updated>
+      <workItem from="1577446701660" duration="5508000" />
+      <workItem from="1577706097034" duration="10041000" />
+      <workItem from="1577964846004" duration="849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2661" y="425" width="437" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577450267658">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2661" y="425" width="437" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577450267658" />
+    <state width="1876" height="290" key="GridCell.Tab.0.bottom" timestamp="1577965846178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846178" />
+    <state width="1876" height="290" key="GridCell.Tab.0.center" timestamp="1577965846178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846178" />
+    <state width="1876" height="290" key="GridCell.Tab.0.left" timestamp="1577965846178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846178" />
+    <state width="1876" height="290" key="GridCell.Tab.0.right" timestamp="1577965846178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846178" />
+    <state width="1876" height="290" key="GridCell.Tab.1.bottom" timestamp="1577965846179">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.1.bottom/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846179" />
+    <state width="1876" height="290" key="GridCell.Tab.1.center" timestamp="1577965846179">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.1.center/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846179" />
+    <state width="1876" height="290" key="GridCell.Tab.1.left" timestamp="1577965846179">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.1.left/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846179" />
+    <state width="1876" height="290" key="GridCell.Tab.1.right" timestamp="1577965846179">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.1.right/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577965846179" />
+    <state x="2563" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1577964877848">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2563" y="365" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964877848" />
+  </component>
+</project>
