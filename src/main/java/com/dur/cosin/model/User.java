@@ -1,4 +1,4 @@
-package com.dur.cosin.user;
+package com.dur.cosin.model;
 
 public class User {
 
