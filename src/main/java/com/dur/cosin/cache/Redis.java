@@ -1,4 +1,4 @@
-package com.dur.cosin.redis;
+package com.dur.cosin.cache;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.StringRedisTemplate;
