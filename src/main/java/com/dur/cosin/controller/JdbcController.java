@@ -27,14 +27,14 @@ public class JdbcController {
             @Override
             public User mapRow(ResultSet rs,int rowNum) throws SQLException{
                 user = new User();
-                user.setUid(rs.getInt("uid"));
-                user.setNickname(rs.getString("nickname"));
+                user.setId(rs.getInt("uid"));
+                user.setUserName(rs.getString("nickname"));
                 return user;
             }
         });
         for(User user:users){
-            System.out.println(user.getUid());
-            System.out.println(user.getNickname());
+            System.out.println(user.getId());
+            System.out.println(user.getUserName());
         }
         map.addAttribute("users", users);
         return "user";
