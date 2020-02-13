@@ -29,8 +29,8 @@ public class UserDaoTest {
         SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(is);
         // 获取sqlSession
         sqlSession = sqlSessionFactory.openSession();
-        this.userDao = new UserDaoExam(sqlSession);
-
+//        this.userDao = new UserDaoExam(sqlSession);
+        this.userDao = sqlSession.getMapper(UserDao.class);
     }
 
     @Test
