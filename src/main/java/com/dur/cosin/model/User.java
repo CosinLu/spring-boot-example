@@ -8,7 +8,7 @@ import java.time.LocalDate;
 public class User {
 
     private int id;
-    private String user_name;
+    private String userName;
     private String password;
     private String name;
     private Integer age;
@@ -26,11 +26,11 @@ public class User {
     }
 
     public String getUserName() {
-        return user_name;
+        return userName;
     }
 
     public void setUserName(String userName) {
-        this.user_name = userName;
+        this.userName = userName;
     }
 
     public String getPassword() {
@@ -93,7 +93,7 @@ public class User {
     public String toString() {
         return "User{" +
                 "id='" + id + '\'' +
-                ", userName='" + user_name + '\'' +
+                ", userName='" + userName + '\'' +
                 ", password='" + password + '\'' +
                 ", name='" + name + '\'' +
                 ", age=" + age +
